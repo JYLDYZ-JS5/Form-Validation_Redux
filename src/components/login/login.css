@@ -1,0 +1,26 @@
+.loginCard{
+    margin: 50px auto;
+    width: 680px;
+    height: 300px;
+    background-color: rgb(21, 48, 59);
+    padding: 20px;
+    display: flex;
+
+}
+.loginCard li{
+    list-style: none;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid steelblue;
+    margin-top: 30px;
+    width: 20rem;
+    padding: 10px;
+}
+.loginCard ul{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.loginCard h1{
+    color: white;
+}
